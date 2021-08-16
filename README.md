@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mitra-Electronics
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python, Fastapi and Django
+- 🌱 I’m currently learning Fastapi
 - 💞️ I’m looking to collaborate on InstaClone
 
 <!---
