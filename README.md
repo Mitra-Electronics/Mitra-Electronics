@@ -2,9 +2,9 @@
 
 I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://nghss.org). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Youtube Badge](https://img.shields.io/badge/-MitraElectronics-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MitraElectronics)](https://www.youtube.com/@MitraElectronics)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/amiIshanM)](https://www.twitter.com/@amiIshanM)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/110770156512876789?domain=https%3A%2F%2Fmastodon.online)](https://mastodon.online/@ishanmitra)
+[![Youtube Badge][youtube]](https://www.youtube.com/@MitraElectronics)
+[![X (formerly Twitter) Follow][twitter]](https://www.twitter.com/@amiIshanM)
+[![Mastodon Follow][mastodon]](https://mastodon.online/@ishanmitra)
 [![Gmail Badge][gmail]](mailto:ishanmitra020@gmail.com)
 
 ## ⚡ Technologies
@@ -34,3 +34,6 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 
 
 [gmail]: https://img.shields.io/badge/-ishanmitra020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmitra020@gmail.com
+[mastodon]: https://img.shields.io/mastodon/follow/110770156512876789?domain=https%3A%2F%2Fmastodon.online
+[twitter]: https://img.shields.io/twitter/follow/amiIshanM
+[youtube]: https://img.shields.io/badge/-MitraElectronics-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MitraElectronics
