@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://nghss.org). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
@@ -29,7 +29,9 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+# CoderRank Score
 ![Github Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mitra-Electronics&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)
+# Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitra-Electronics&hide=TeX&layout=compact)
 
 
