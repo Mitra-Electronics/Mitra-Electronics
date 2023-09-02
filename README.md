@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://nghss.org). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://nghss.org). I am a tech enthusiast & an open-source advocate. Python and Javascript are my most favourite languages. Mostly open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Youtube Badge][youtube]](https://www.youtube.com/@MitraElectronics)
 [![X (formerly Twitter) Follow][twitter]](https://www.twitter.com/@amiIshanM)
