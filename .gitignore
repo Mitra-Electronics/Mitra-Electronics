@@ -6,6 +6,7 @@ dist/
 
 # dependencies
 node_modules/
+.venv
 
 # logs
 npm-debug.log*
@@ -20,3 +21,4 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+.vercel
