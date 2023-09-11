@@ -32,7 +32,7 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 # CoderRank Score
 ![Github Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mitra-Electronics&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitra-Electronics&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats-m7uxr2a4d-mitra-electronics.vercel.app/api/top-langs/?username=Mitra-Electronics&hide=TeX&layout=compact)
 
 
 [gmail]: https://img.shields.io/badge/-ishanmitra020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmitra020@gmail.com
