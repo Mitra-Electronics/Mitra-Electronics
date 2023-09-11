@@ -34,7 +34,7 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 # Top Languages
 ![Top Langs](https://github-readme-stats-mitra-electronics.vercel.app/api/top-langs/?username=Mitra-Electronics&hide=TeX&layout=compact)
 # Rank
-[![Anurag's GitHub stats](https://github-readme-stats-mitra-electronics.vercel.app/api?username=Mitra-Electronics)](https://github.com/anuraghazra/github-readme-stats)
+![Ishan's GitHub stats](https://github-readme-stats-mitra-electronics.vercel.app/api?username=Mitra-Electronics)
 
 
 [gmail]: https://img.shields.io/badge/-ishanmitra020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmitra020@gmail.com

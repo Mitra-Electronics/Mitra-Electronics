@@ -1,5 +1,6 @@
 # build output
 dist/
+run.bat
 # generated types
 .astro/
 .vscode/
@@ -7,6 +8,9 @@ dist/
 # dependencies
 node_modules/
 .venv
+
+# cache
+__pycache__
 
 # logs
 npm-debug.log*
