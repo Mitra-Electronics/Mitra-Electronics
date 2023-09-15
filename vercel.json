@@ -4,5 +4,8 @@
     ],
     "routes": [
       {"src": "/(.*)", "dest": "src/app.py"}
-    ]
+    ],
+    "env": {
+      "APP_MODULE": "src.app:app"
+    }
   }
