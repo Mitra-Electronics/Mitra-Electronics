@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.11
 #It creates a working directory(app) for the Docker image and container
 WORKDIR /
 #It will copy all files and the source code from the host `fast-api` folder to the `app` container working directory
