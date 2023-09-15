@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
-from src.blog.router import router as brouter
+from .blog.router import router as brouter
 
 BASE_DIR = Path(__file__).parent
 
