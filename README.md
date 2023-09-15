@@ -29,11 +29,11 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-# CoderRank Score
-![Github Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mitra-Electronics&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)
-# Top Languages
+## CoderRank Score
+![Github Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mitra-Electronics&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+## Top Languages
 ![Top Langs](https://github-readme-stats-mitra-electronics.vercel.app/api/top-langs/?username=Mitra-Electronics&hide=TeX&layout=compact)
-# Rank
+## Rank
 ![Ishan's GitHub stats](https://github-readme-stats-mitra-electronics.vercel.app/api?username=Mitra-Electronics)
 
 
