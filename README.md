@@ -37,6 +37,7 @@ I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://n
 ![Ishan's GitHub stats](https://github-readme-stats-mitra-electronics.vercel.app/api?username=Mitra-Electronics)
 
 
+
 [gmail]: https://img.shields.io/badge/-ishanmitra020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanmitra020@gmail.com
 [mastodon]: https://img.shields.io/mastodon/follow/110770156512876789?domain=https%3A%2F%2Fmastodon.online
 [twitter]: https://img.shields.io/twitter/follow/amiIshanM
