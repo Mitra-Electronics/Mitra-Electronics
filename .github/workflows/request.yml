@@ -11,5 +11,5 @@ jobs:
       - name: Request
         uses: satak/webrequest-action@master
         with:
-            url: https://github-readme-stats-mitra-electronics.vercel.app/
+            url: https://github-readme-stats-mitra-electronics.vercel.app/api?username=Mitra-Electronics
             method: GET
