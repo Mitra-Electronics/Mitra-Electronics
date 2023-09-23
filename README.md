@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Ishan Mitra, a student at [National Gems Higher Secondary School](https://nghss.org). I am a tech enthusiast & an open-source advocate. Python and Javascript are my most favourite languages. Mostly open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
